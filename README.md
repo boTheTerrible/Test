@@ -1,1 +1,1 @@
-# Test
+print("Anyone can help")
